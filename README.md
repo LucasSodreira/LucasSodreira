@@ -1,4 +1,4 @@
-<strong>Olá! Sou Lucas Dantas Sobreira, tenho 20 anos e sou estudante de ADS(Analise e Desenvolvimento de Sistemas) na IFRN - Pau dos Ferros </strong>
+<strong>Olá! Sou Lucas Dantas Sobreira, tenho 20 anos e sou estudante de ADS (Analise e Desenvolvimento de Sistemas) na IFRN - Pau dos Ferros </strong>
 <p>
 👯 Estou procurando colaborar em projetos de desenvolvimento de software relacionados a Python, como projetos de código aberto ou equipes de desenvolvimento.<br>
 <br>
