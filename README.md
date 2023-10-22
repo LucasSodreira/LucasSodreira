@@ -13,8 +13,15 @@
 
 <div>
 <a href="[https://github.com/LucasSodreira/LucasSodreira">
-<img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSodreira&layout=compact&langs_count=7&theme=dracula"/>
+<img id="painel"height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSodreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<style>
+  .painel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+</style>
 
 ## Contatos:
 
