@@ -16,12 +16,6 @@
 <img id="painel"height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSodreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 ## Contatos:
 
 <div>
