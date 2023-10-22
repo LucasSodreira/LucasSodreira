@@ -11,17 +11,16 @@
 ⚡ Curiosidade: Eu sou apaixonado por aplicativos web e estou sempre explorando novas maneiras de combinar Python com outras tecnologias para criar soluções inovadoras.
 <br> </p>
 
-<div>
+<div style="text-align: center;">
 <a href="[https://github.com/LucasSodreira/LucasSodreira">
 <img id="painel"height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSodreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<style>
-  .painel{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-</style>
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 ## Contatos:
 
