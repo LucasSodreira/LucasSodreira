@@ -13,7 +13,7 @@
 
 <div>
 <a href="[https://github.com/LucasSodreira/LucasSodreira">
-<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSodreira&layout=compact&langs_count=7&theme=dracula"/>
+<img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSodreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Contatos:
